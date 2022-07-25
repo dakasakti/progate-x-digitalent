@@ -150,3 +150,11 @@ Menggunakan instanceof, kita dapat menentukan apakah instance termasuk class ter
 ### Parent
 
 Untuk memanggil method yang didefinisikan di dalam class induk saat overriding, kita menggunakan parent sebagai berikut: parent::methodName. Method dari class induk dijalankan ditempat dimana parent::methodName dideskripsikan. Dengan melakukan ini, kita dapat menulis constructor yang kita buat sebelumnya dengan jelas.
+
+### String Query
+
+- => <url>.php?key=value
+
+## LULUS
+
+https://progate.com/course_certificate/7e1da2e2rfkaka
